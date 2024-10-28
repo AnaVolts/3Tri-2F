@@ -61,6 +61,7 @@
  }
  .cartao-conteudo-pergunta,
  .cartao-conteudo-resposta{
+  margin: 1rem;
    backface-visibility: hidden;
  }
  .cartao-conteudo-resposta{
